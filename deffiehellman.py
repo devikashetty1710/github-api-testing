@@ -24,3 +24,4 @@ if secret_a == secret_b:
     print("Shared secret key established successfully")
 
 print("End")
+print("End of file")
